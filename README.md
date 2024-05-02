@@ -1,1 +1,1 @@
-# cv-qc-circuit-opt
+Supplementary code for a project for EECS 598 at the University of Michigan. The project goal is to provide circuit optimizations for continuous-variable quantum simulation of many-body dynamics. Repository contains some simple Python code providing a class for implementing the SWAP operations defined in report.pdf and tracking configurations yet to be achieved.
